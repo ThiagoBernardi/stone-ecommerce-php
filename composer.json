@@ -1,5 +1,5 @@
 {
-    "name": "ThiagoBernardi/stone-ecommerce-php",
+    "name": "thiagobernardi/stone-ecommerce-php",
     "description": "Stone Pagamentos PHP Library",
     "autoload": {
         "psr-4": { "Gateway\\" : "lib/" }
