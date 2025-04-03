@@ -1,9 +1,6 @@
 {
-    "name": "stone-pagamentos/stone-ecommerce-php",
+    "name": "ThiagoBernardi/stone-ecommerce-php",
     "description": "Stone Pagamentos PHP Library",
-    "keywords": ["gateway", "stone", "pagamento", "payment"],
-    "homepage": "http://www.stone.com.br/en/",
-    "license": "MIT",
     "autoload": {
         "psr-4": { "Gateway\\" : "lib/" }
     },
